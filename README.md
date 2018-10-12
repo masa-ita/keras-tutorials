@@ -1,7 +1,7 @@
 # keras-tutorials
 Japanese translation of keras tutorials included in tensorflow/models
 Original found at
-https://github.com/tensorflow/models/tree/master/samples/core/tutorials/keras
+https://github.com/tensorflow/docs/tree/master/site/en/tutorials/keras
 
 Copyright 2018 The TensorFlow Authors.
 Translate in Japanse by Masatoshi Itagaki https://github.com/masa-ita
